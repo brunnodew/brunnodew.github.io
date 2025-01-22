@@ -1,16 +1,6 @@
 <p>
-	Batatinha quando nasce espalha a rama pelo chão.
-	<br />
-	Menininha quando dorme põe a mão no coração.
-	<br />
-	Sou pequenininha do tamanho de um botão,
-	<br />
-	Carrego papai no bolso e mamãe no coração
-	<br />
-	O bolso furou e o papai caiu no chão.
-	<br />
-	Mamãe que é mais querida ficou no coração.
-	<br />
+ oi sua retardada
+
 </p>
 
 <style>
