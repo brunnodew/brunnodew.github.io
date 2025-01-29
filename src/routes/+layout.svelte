@@ -18,9 +18,6 @@
 		</button>
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav">
-				<li class="nav-item">
-					<a class="nav-link" href="/Pagina inicial">Pagina inicial</a>
-				</li>
                 <li class="nav-item">
 					<a class="nav-link" href="/sobre">sobre</a>
 				</li>
