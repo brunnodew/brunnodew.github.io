@@ -8,7 +8,7 @@
 		{ id: 3, name: 'Cozinha', description: 'Preparação de refeições' },
 		{ id: 4, name: 'Jardinagem', description: 'Cuidados com o jardim' },
 		{ id: 5, name: 'Babá', description: 'Cuidados infantis' },
-		{ id: 6, name: 'Manutenção', description: 'Reparos e manutenção geral (eletronicos, afiação, etc.' }
+		{ id: 6, name: 'Manutenção', description: 'Reparos e manutenção geral (eletronicos, afiação, etc.)' }
 	];
 </script>
 
