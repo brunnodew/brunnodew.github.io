@@ -1,3 +1,7 @@
+
+<h1>seja bem vindo a nosso site de serviços domésticos</h1>
+<Poema /> 
+ 
 <script>
 	import Poema from '$lib/Poema.svelte';
 	
@@ -36,6 +40,3 @@
 </ul>
 
 
-<h1>seja bem vindo a nosso site de serviços domésticos</h1>
-<Poema /> 
- 
