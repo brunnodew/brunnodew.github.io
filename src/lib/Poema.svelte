@@ -1,5 +1,5 @@
 <p>
-	aqui sera ofericido um lista de serviços que podem ser contatados 
+	aqui sera ofericido um lista de serviços que podem ser contatados  
 
 </p>
 
